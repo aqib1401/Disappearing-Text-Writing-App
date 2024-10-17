@@ -10,9 +10,9 @@ This Tkinter-based application challenges users to keep typing to prevent their 
 **User-Friendly Interface:** Clean and intuitive design for an enjoyable user experience.
 ## Installation
 **Clone the repository:**
-`git clone https://github.com/your-username/text-disappearing-app.git`
+`git clone https://github.com/aqib1401/Disappearing-Text-Writing-App.git`
 **Navigate to the project directory:**
-`cd text-disappearing-app`
+`cd Disappearing-Text-Writing-App`
 **Install the required packages:**
 `pip install pygame`
 ## Usage
